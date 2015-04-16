@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="automanager:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="automanager.war">
+      <element id="artifact" artifact-name="automanager:war exploded" />
+    </root>
+  </artifact>
+</component>
